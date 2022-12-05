@@ -1,8 +1,11 @@
-
+h1{
+  font-family: 'Signika Negative', sans-serif;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: rgb(233, 203, 162);
     overflow: hidden;
+    font-family: 'Signika Negative', sans-serif;
   }
   
   /* Style the links inside the navigation bar */
@@ -71,7 +74,8 @@ background-color: rgb(233, 203, 162) ;
 /*About Me Section*/
 #aboutme{
   background-color: rgb(233, 203, 162)  ;
-  padding: 1% 5% 5% 5%
+  padding: 1% 5% 5% 5%;
+  font-family: 'Nanum Myeongjo', serif;
 }
 .card1{
   background-color: rgba(231, 205, 168, 0.836);
@@ -97,6 +101,13 @@ background-color: rgb(233, 203, 162) ;
  #work{
   background-color:rgb(103, 117, 84) ;
   padding: 5% 10%;
+ }
+ .card-title{
+  font-family: 'Signika Negative', sans-serif;
+
+ }
+ .card-text{
+  font-family: 'Nanum Myeongjo', serif;
  }
  .portfolioContent{
   background-color: rgba(231, 205, 168, 0.836);
